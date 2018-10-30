@@ -1,0 +1,6 @@
+dataaccess\DB.class
+domain\User.class
+control\Control.class
+dataaccess\ProductMapper.class
+dataaccess\UserMapper.class
+domain\Product.class

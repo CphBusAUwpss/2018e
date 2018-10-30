@@ -1,0 +1,6 @@
+control\MyLittleServlet.class
+control\UploadImage.class
+control\Registration.class
+model\DataMapper.class
+control\ShowImage.class
+control\RegisterUser.class
